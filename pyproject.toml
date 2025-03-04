@@ -1,0 +1,14 @@
+[project]
+name = "test-marimo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "azure-ai-inference>=1.0.0b9",
+    "cjkstr>=0.0.5",
+    "marimo>=0.11.7",
+    "openai>=1.63.2",
+    "ptpython>=3.0.29",
+    "rich>=13.9.4",
+]
